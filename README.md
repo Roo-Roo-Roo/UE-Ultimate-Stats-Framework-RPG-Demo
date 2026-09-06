@@ -1,4 +1,4 @@
-# RooGF RPG Game
+# Ultimate Stats Framework RPG Demo
 
 An ongoing full RPG game project built with **Unreal Engine 5.7** and [RooGameplayFramework](https://www.fab.com/listings/12888893-e540-4785-a1a0-586931539fc7).
 
