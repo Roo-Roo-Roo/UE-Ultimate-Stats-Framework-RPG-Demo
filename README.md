@@ -1,6 +1,6 @@
 # Ultimate Stats Framework RPG Demo
 
-An ongoing full RPG game project built with **Unreal Engine 5.7** and [RooGameplayFramework](https://www.fab.com/listings/12888893-e540-4785-a1a0-586931539fc7).
+An ongoing full RPG game project built with **Unreal Engine 5.7** and [Ultimate Stats Framework](https://www.fab.com/listings/12888893-e540-4785-a1a0-586931539fc7).
 
 The project is being developed into a complete RPG game and will continue to grow over time. Its goal is to provide a cohesive, feature-rich gameplay foundation covering common RPG systems.
 
@@ -22,7 +22,7 @@ Chapter 4 adds configurable equipment, equipment-based stat modifiers, a level-s
 
 ## Chapter 1 Video Tutorial
 
-Chapter 1 builds the project from the initial `v1.0.0` state into the data-driven Stats and combat foundation released in `v1.1.0`. The complete step-by-step tutorial covers RooGameplayFramework setup, the Stats Designer, Stats and Attributes, configurable damage Formulas, runtime value change events, and UI updates.
+Chapter 1 builds the project from the initial `v1.0.0` state into the data-driven Stats and combat foundation released in `v1.1.0`. The complete step-by-step tutorial covers Ultimate Stats Framework setup, the Stats Designer, Stats and Attributes, configurable damage Formulas, runtime value change events, and UI updates.
 
 [Watch the complete Chapter 1 tutorial on YouTube](https://www.youtube.com/watch?v=LILH3-InaRI)
 
@@ -54,13 +54,13 @@ The project is developed as a step-by-step learning series, with each chapter ad
 
 - Unreal Engine 5.7
 
-> **Note:** RooGameplayFramework is not included in this repository. Obtain and install it separately from Fab, enable it in Unreal Engine through **Edit → Plugins**, and restart the editor when prompted.
+> **Note:** Ultimate Stats Framework is not included in this repository. Obtain and install it separately from Fab, enable it in Unreal Engine through **Edit → Plugins**, and restart the editor when prompted.
 
-## RooGameplayFramework
+## Ultimate Stats Framework
 
-RooGameplayFramework is available on Fab:
+Ultimate Stats Framework is available on Fab:
 
-[Visit the RooGameplayFramework Fab page](https://www.fab.com/listings/12888893-e540-4785-a1a0-586931539fc7)
+[Visit the Ultimate Stats Framework Fab page](https://www.fab.com/listings/12888893-e540-4785-a1a0-586931539fc7)
 
 ## License
 
