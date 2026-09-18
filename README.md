@@ -4,6 +4,14 @@ An ongoing full RPG game project built with **Unreal Engine 5.7** and [Ultimate 
 
 The project is being developed into a complete RPG game and will continue to grow over time. Its goal is to provide a cohesive, feature-rich gameplay foundation covering common RPG systems.
 
+## Project Starting Point
+
+![Ultimate Stats Framework RPG Demo Content Structure](Thumbnail/project-starting-point.png)
+
+All gameplay content for this demo begins in `Content/Variant_Combat`.
+
+Open `Lvl_Combat` to launch the playable arena. The folders alongside it organize the demo's animations, character Blueprints, input assets, materials, RPG data, UI, and visual effects. This is the central location to explore, extend, and maintain the RPG demo.
+
 ## Development Principles
 
 Blueprints will be developed using consistent conventions and established best practices to ensure maintainability, extensibility, and strong runtime performance as the project grows.
