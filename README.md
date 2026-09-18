@@ -1,6 +1,6 @@
 # Ultimate Stats Framework RPG Demo
 
-An ongoing full RPG game project built with **Unreal Engine 5.7** and [Ultimate Stats Framework](https://www.fab.com/listings/12888893-e540-4785-a1a0-586931539fc7).
+An ongoing full RPG game project built with **Unreal Engine 5.7** and [Ultimate Stats Framework](https://www.fab.com/listings/311ce299-b6bf-49f0-a4f3-9b0165b6e674).
 
 The project is being developed into a complete RPG game and will continue to grow over time. Its goal is to provide a cohesive, feature-rich gameplay foundation covering common RPG systems.
 
@@ -20,12 +20,6 @@ Blueprints will be developed using consistent conventions and established best p
 
 Chapter 4 adds configurable equipment, equipment-based stat modifiers, a level-scaling weapon Formula, inventory and equipment UI, and item tooltips.
 
-## Chapter 1 Video Tutorial
-
-Chapter 1 builds the project from the initial `v1.0.0` state into the data-driven Stats and combat foundation released in `v1.1.0`. The complete step-by-step tutorial covers Ultimate Stats Framework setup, the Stats Designer, Stats and Attributes, configurable damage Formulas, runtime value change events, and UI updates.
-
-[Watch the complete Chapter 1 tutorial on YouTube](https://www.youtube.com/watch?v=LILH3-InaRI)
-
 ## Project Roadmap
 
 The project is developed as a step-by-step learning series, with each chapter adding a complete set of connected RPG systems.
@@ -34,8 +28,6 @@ The project is developed as a step-by-step learning series, with each chapter ad
 - [x] **Chapter 2 — Levels and Character Progression**
 - [x] **Chapter 3 — Buffs and Skills**
 - [x] **Chapter 4 — Equipment Systems**
-
-[View the complete learning roadmap and documentation](https://roogame.gitbook.io/roogame/roo-gameplay-framework/learn-to-build-a-complete-rpg-game)
 
 ## Planned Features
 
@@ -60,7 +52,7 @@ The project is developed as a step-by-step learning series, with each chapter ad
 
 Ultimate Stats Framework is available on Fab:
 
-[Visit the Ultimate Stats Framework Fab page](https://www.fab.com/listings/12888893-e540-4785-a1a0-586931539fc7)
+[Visit the Ultimate Stats Framework Fab page](https://www.fab.com/listings/311ce299-b6bf-49f0-a4f3-9b0165b6e674)
 
 ## License
 
