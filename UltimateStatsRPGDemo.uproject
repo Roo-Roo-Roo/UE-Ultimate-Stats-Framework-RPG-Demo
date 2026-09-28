@@ -24,13 +24,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "UnrealMCP",
-			"Enabled": false,
-			"TargetAllowList": [
-				"Editor"
-			]
-		},
-		{
 			"Name": "Niagara",
 			"Enabled": true
 		},
