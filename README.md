@@ -10,6 +10,20 @@ If you want to install this project, follow the [RPG Demo Project installation g
 
 This project will gradually evolve into a complete RPG game and aims to cover as many common RPG features as possible. For detailed, step-by-step development guides, see [Build a Complete RPG Game](https://roogame.gitbook.io/roogame/ultimate-stats-framework/build-a-complete-rpg-game).
 
+## Current Features
+
+- Third-person character movement and camera in a playable RPG environment.
+- A sword that can be detected and picked up with an on-screen interaction prompt.
+- Backpack and equipment UI with item drag-and-drop, plus sword visuals attached to character sockets.
+- A ten-slot hotbar with number-key selection and item display.
+- Player attributes and HUD displays for HP, MP, and EXP.
+
+## Gameplay Preview
+
+The first 13 seconds of the gameplay recording show the pickup prompt, sword and inventory UI, player attributes, and hotbar selection.
+
+![RPG demo gameplay preview](Thumbnail/v4.4-gameplay-preview.gif)
+
 ## Free Third-Party Assets
 
 This project includes free character and environment assets by **Dungeon Mason**, including *RPG Hero Squad PBR Polyart* and *RPG Tiny Fantasy Forest*. If you enjoy these assets or want to use them in your own project, you can obtain them and explore more of the creator's work on the [Dungeon Mason Fab store](https://www.fab.com/sellers/Dungeon%20Mason).
