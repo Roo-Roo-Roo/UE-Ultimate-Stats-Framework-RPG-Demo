@@ -30,3 +30,5 @@ The first 13 seconds of the gameplay recording show the sword pickup prompt, bac
 ## Free Third-Party Assets
 
 This project includes free character and environment assets by **Dungeon Mason**, including *RPG Hero Squad PBR Polyart* and *RPG Tiny Fantasy Forest*. If you enjoy these assets or want to use them in your own project, you can obtain them and explore more of the creator's work on the [Dungeon Mason Fab store](https://www.fab.com/sellers/Dungeon%20Mason).
+
+The demo also uses [*Magic Potion Free game-ready 3D asset*](https://www.fab.com/listings/2ccf2dbb-913b-45f4-808a-3336e0ee83c4) by [BreeIri](https://www.fab.com/sellers/BreeIri). Visit the creator's Fab store to explore more of their work.
