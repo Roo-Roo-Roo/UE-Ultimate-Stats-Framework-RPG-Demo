@@ -25,6 +25,7 @@ This demo connects the framework's character stats, inventory, equipment, and wo
 
 - **Complete attribute system:** The player has HP and MP attributes alongside stats such as Max HP, Max MP, Attack, Defense, Level, and MP Regeneration. The attribute panel displays the character's current values, while the in-game HUD keeps HP, MP, and EXP visible during play.
 - **Inventory system and equipment:** A grid-based backpack and equipment slots let you organize items through drag-and-drop. Items can occupy multiple cells and be rotated to fit. Stackable items support stacking, splitting stacks, and placing items one at a time. The inventory, equipment panel, and hotbar share the same item data, so moving an item between them changes where it is held rather than creating a separate copy.
+- **Item tooltips:** A dedicated item-tip UI presents item information, with a gold-coin icon for prices.
 - **Carry-weight system:** The inventory and HUD display current weight against the carrying limit. Pickups that exceed the limit show a **Too Heavy** prompt; a full inventory has its own **Inventory Full** prompt.
 - **Pickups and interaction:** The world includes pickupable equipment and potion items with visual representations, including a sword, shield, Health potion, Mana potion, Regeneration potion, and Poison potion. Looking at an item shows an interaction prompt, and pressing **E** picks it up through the framework's pickup system.
 - **A sword with a stat bonus:** Equipping the sword grants **+5 Attack**. Its visual representation is attached to the character using sockets, connecting the equipped item to what you see on the player.
@@ -39,7 +40,6 @@ The demo also uses [*Magic Potion Free game-ready 3D asset*](https://www.fab.com
 
 ## Planned Updates
 
-- Item tooltips with more detailed information.
 - A status-effect system and UI.
 - A Health potion that restores HP directly.
 - A regeneration-buff potion that applies a healing-over-time effect.
