@@ -38,6 +38,8 @@ This project includes free character and environment assets by **Dungeon Mason**
 
 The demo also uses [*Magic Potion Free game-ready 3D asset*](https://www.fab.com/listings/2ccf2dbb-913b-45f4-808a-3336e0ee83c4) by [BreeIri](https://www.fab.com/sellers/BreeIri). Visit the creator's Fab store to explore more of their work.
 
+The demo also uses [*[18] Free Spells Niagara*](https://www.fab.com/listings/967b7892-d46c-4d75-8121-33418a6899ce) by **UrtanoVFX** for magic visual effects. Visit the asset page to explore more of the creator's work.
+
 ## Planned Updates
 
 - A status-effect system and UI.
