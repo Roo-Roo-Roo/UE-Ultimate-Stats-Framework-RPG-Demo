@@ -40,6 +40,8 @@ The demo also uses [*Magic Potion Free game-ready 3D asset*](https://www.fab.com
 
 The demo also uses [*[18] Free Spells Niagara*](https://www.fab.com/listings/967b7892-d46c-4d75-8121-33418a6899ce) by **UrtanoVFX** for magic visual effects. Visit the asset page to explore more of the creator's work.
 
+The demo also uses [*GanzSe FREE Camping - Fantasy Low Poly Props*](https://www.fab.com/listings/d03138fe-7e29-4b3d-9ea8-8ba67f24f845) by **GanzSe**. Visit the asset page to explore more of the creator's work.
+
 ## Planned Updates
 
 - A status-effect system and UI.
